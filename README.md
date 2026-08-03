@@ -16,6 +16,8 @@ I care about problem-solving and system design more than just writing code — c
 | `@codeminity/axios` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/axios) | [npm](https://www.npmjs.com/package/@codeminity/axios) |
 | `@codeminity/fetch` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/fetch) | [npm](https://www.npmjs.com/package/@codeminity/fetch) |
 
+Real-world usage examples: [`ts-platform-examples`](https://github.com/codeminity/ts-platform-examples).
+
 Engineering practices I hold these packages to:
 - 100% mutation-tested (not just line coverage) on every package
 - Real-browser (Playwright) end-to-end verification, not simulated DOM
