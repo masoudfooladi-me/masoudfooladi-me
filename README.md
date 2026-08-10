@@ -1,6 +1,6 @@
 # Hi, I'm Masoud Fooladi 👋
 
-Building scalable tools, libraries, and developer experiences.
+Building TypeScript request infrastructure and UI components, published to npm as `@codeminity/*`.
 
 ## About
 
@@ -15,8 +15,9 @@ I care about problem-solving and system design more than just writing code — c
 | `@codeminity/request-core` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/core) | [npm](https://www.npmjs.com/package/@codeminity/request-core) |
 | `@codeminity/axios` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/axios) | [npm](https://www.npmjs.com/package/@codeminity/axios) |
 | `@codeminity/fetch` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/fetch) | [npm](https://www.npmjs.com/package/@codeminity/fetch) |
+| `@codeminity/ui-kit-core` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/ui-kit/core) | [npm](https://www.npmjs.com/package/@codeminity/ui-kit-core) |
 
-Real-world usage examples: [`ts-platform-examples`](https://github.com/codeminity/ts-platform-examples).
+Live component gallery: [`ui-kit-docs`](https://github.com/codeminity/ui-kit-docs) ([live site](https://codeminity.github.io/ui-kit-docs/)).
 
 Engineering practices I hold these packages to:
 - 100% mutation-tested (not just line coverage) on every package
@@ -43,4 +44,4 @@ Build less. Create more.
 
 ---
 
-⭐ Check out [Codeminity](https://github.com/codeminity) — TypeScript request infrastructure with real, verifiable engineering rigor.
+⭐ Check out [Codeminity](https://github.com/codeminity) — TypeScript request infrastructure and UI components, built with real, verifiable engineering rigor.
