@@ -15,9 +15,7 @@ I care about problem-solving and system design more than just writing code — c
 | `@codeminity/request-core` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/core) | [npm](https://www.npmjs.com/package/@codeminity/request-core) |
 | `@codeminity/axios` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/axios) | [npm](https://www.npmjs.com/package/@codeminity/axios) |
 | `@codeminity/fetch` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/request/fetch) | [npm](https://www.npmjs.com/package/@codeminity/fetch) |
-| `@codeminity/ui-kit-core` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/ui-kit/core) | [npm](https://www.npmjs.com/package/@codeminity/ui-kit-core) |
-
-Live component gallery: [`ui-kit-docs`](https://github.com/codeminity/ui-kit-docs) ([live site](https://codeminity.github.io/ui-kit-docs/)).
+| `@codeminity/ui-kit` | [source](https://github.com/codeminity/ts-platform/tree/main/packages/ui-kit) | [npm](https://www.npmjs.com/package/@codeminity/ui-kit) |
 
 Engineering practices I hold these packages to:
 - 100% mutation-tested (not just line coverage) on every package
